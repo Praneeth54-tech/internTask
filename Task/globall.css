@@ -1,0 +1,7 @@
+:root{
+	--brand_color : #007b5e ;
+}
+.heading{
+  color: var(--brand_color) !important;
+  opacity: 0.6;
+}
